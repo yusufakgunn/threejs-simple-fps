@@ -1,0 +1,21 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "main": "js/game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "bluebird": "^3.5.1",
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "npm": "^6.4.1",
+    "three": "^0.95.0",
+    "three.js": "^0.77.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
